@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 sdfsdf masteeeerrr
+=======
 sdfsdf masteeeerrr
-da
+>>>>>>> new_f2
